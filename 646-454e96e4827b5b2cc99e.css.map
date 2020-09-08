@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-icon/lib/terra-dev-site/test/icon/IconHeightWidth.module.scss"],"names":[],"mappings":"AAAA,8CAEI,aAAc","file":"646-454e96e4827b5b2cc99e.css","sourcesContent":[":local {\n  .icon-wrapper {\n    font-size: 5em;\n  }\n}\n"]}

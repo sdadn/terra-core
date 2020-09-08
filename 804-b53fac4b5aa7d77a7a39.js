@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[804],{2822:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var u=d(n(0)),o=d(n(971));function d(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return u.default.createElement(o.default,{title:"Closed Section Header",onClick:function(){}})}}}]);
+//# sourceMappingURL=804-b53fac4b5aa7d77a7a39.js.map
